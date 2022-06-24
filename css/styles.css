@@ -3,7 +3,7 @@
 }
 
 body{
-    background-color: #96eaf9;;
+    background-color: #96eaf9;
 }
 
 #header-nav {
@@ -64,12 +64,11 @@ body{
 }
 
 #nav-list a:hover {
-    background-color: #EDF5E1; 
     color: #05386B; 
 }
 
 #nav-list a li:hover{
-    color: #05386B;
+    color: #d4eaff;
 }
 
 .navbar-default .navbar-collapse {
@@ -159,12 +158,11 @@ height:auto
 }
 
 #menu a:hover{
-    background-color: #EDF5E1;
     text-decoration: none;
 }
 
 #menu a li:hover{
-    color: #05386B;
+    color: #cde6ff;
 }
 
 #menu ul{
@@ -197,9 +195,11 @@ height:auto
 #text a{
     color: #0a041a;
     padding: 0px;
+    text-decoration: none;
 }
 
 #text a:hover{
+    color: #2f0e87;
     text-decoration: none;
 }
 
@@ -219,6 +219,16 @@ height:auto
     float: left;
     margin-right: 20px;
     margin-top: 10px;
+}
+
+button{
+    color: #EDF5E1;
+    background-color: #05386B;
+}
+
+button:hover{
+    color: #05386B;
+    background-color: #EDF5E1;
 }
 
 footer{
