@@ -191,14 +191,14 @@ height:auto
     bottom: 30px;
 }
 
-
-
 #text a{
-    color: #EDF5E1;
+    color: #0a041a;
     padding: 0px;
+    text-decoration: none;
 }
 
 #text a:hover{
+    color: #2f0e87;
     text-decoration: none;
 }
 
