@@ -66,7 +66,6 @@ body{
 }
 
 #nav-list a:hover {
-    background-color: #EDF5E1; 
     color: #05386B; 
 }
 
@@ -224,7 +223,7 @@ height:auto
 }
 
 footer{
-    background-color: gray;
+    background-color: #05386B;
     color: white;
     height: 140px;
     position: absolute;

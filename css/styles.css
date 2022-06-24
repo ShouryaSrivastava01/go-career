@@ -46,8 +46,7 @@ body{
     background-color: #00aec482;
     font-family: 'Oxygen'; 
     font-size: 1.3em;
-    font-weight: normal; 
-    color: #EDF5E1; 
+    font-weight: normal;
     position: relative;
 }
 
@@ -66,12 +65,11 @@ body{
 }
 
 #nav-list a:hover {
-    background-color: #EDF5E1; 
     color: #05386B; 
 }
 
 #nav-list a li:hover{
-    color: #05386B;
+    color: #d4eaff;
 }
 
 .navbar-default .navbar-collapse {
@@ -161,12 +159,11 @@ height:auto
 }
 
 #menu a:hover{
-    background-color: #EDF5E1;
     text-decoration: none;
 }
 
 #menu a li:hover{
-    color: #05386B;
+    color: #cde6ff;
 }
 
 #menu ul{
@@ -197,11 +194,13 @@ height:auto
 
 
 #text a{
-    color: #EDF5E1;
+    color: #0a041a;
     padding: 0px;
+    text-decoration: none;
 }
 
 #text a:hover{
+    color: #2f0e87;
     text-decoration: none;
 }
 
@@ -234,7 +233,7 @@ button:hover{
 }
 
 footer{
-    background-color: gray;
+    background-color: #05386B;
     color: white;
     height: 140px;
     position: absolute;
